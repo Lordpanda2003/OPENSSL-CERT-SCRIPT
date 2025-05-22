@@ -10,6 +10,8 @@ Perfect for:
 
 
 
+
+
 ## 📁 Project Structure
 
 ```
@@ -23,6 +25,7 @@ smime-auto-sign/
 
 
 
+
 ## ⚙️ Features
 
 ✅ Generates a secure 2048-bit RSA private key  
@@ -30,6 +33,7 @@ smime-auto-sign/
 ✅ Packages everything into a `.p12` (PKCS#12) file for email clients  
 ✅ Fully customizable: email, organization, validity period  
 ✅ Easy to use on both Windows and Linux/macOS  
+
 
 
 
@@ -54,6 +58,7 @@ The script will generate:
 
 
 
+
 ## 🪟 Quick Demo (Windows)
 
 1. Double-click `generate_smime_cert.bat` or run it via command prompt.
@@ -62,15 +67,18 @@ The script will generate:
 
 
 
+
 ## 📧 How to Use the `.p12` File
 
 Import the generated `.p12` file into your email client:
+
 
 ### 📬 Thunderbird
 
 * Preferences → Privacy & Security → View Certificates → Import
 * Select your `.p12` file
 * Enable signing/encryption for your account
+
 
 ### 💼 Outlook
 
@@ -80,10 +88,13 @@ Import the generated `.p12` file into your email client:
 
 
 
+
+
 ## 🛡️ Disclaimer
 
 > **These certificates are self-signed and for educational or internal purposes only.**
 > They will not be trusted by external parties or systems unless explicitly installed as trusted.
+
 
 
 
@@ -96,10 +107,12 @@ Import the generated `.p12` file into your email client:
 
 
 
+
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
 Feel free to use, modify, and share it!
+
 
 
 
