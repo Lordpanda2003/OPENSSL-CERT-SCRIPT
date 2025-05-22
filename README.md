@@ -89,10 +89,10 @@ Import the generated `.p12` file into your email client:
 
 ## ✍️ Author
 
-**DEUTCHA DENIS**
+**MONEZE PARFAIT-JUNIOR**
 📘 *Cybersecurity & Cryptography Enthusiast*
-🔗 [GitHub Profile](https://github.com/your-github-username)
-📧 [dutchadenis@email.com](mailto:dutchadenis@email.com)
+🔗 [GitHub Profile](https://github.com/Lordpanda2003)
+📧 [monezejunior@gmail.com](mailto:monezejunior@gmail.com)
 
 ---
 
@@ -107,17 +107,3 @@ Feel free to use, modify, and share it!
 
 Pull requests are welcome!
 If you'd like to improve the script (e.g., GUI version, CSR generation, etc.), open an issue or fork the project.
-
-```
-
----
-
-Would you like a **French version (`README_FR.md`)** for local academic sharing as well?
-
-Let me know if I should generate:
-- A real GitHub repository for you (with all files ready)
-- Custom screenshots or ASCII diagrams for visual learners  
-- A shareable **PDF version** of this README for offline presentations
-
-Tu vas briller lors de ta présentation 👏
-```
