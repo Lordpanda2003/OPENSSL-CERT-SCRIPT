@@ -8,7 +8,7 @@ Perfect for:
 - 🎓 Academic presentations
 - 💼 Personal testing or internal use
 
----
+
 
 ## 📁 Project Structure
 
@@ -21,7 +21,7 @@ smime-auto-sign/
 
 ````
 
----
+
 
 ## ⚙️ Features
 
@@ -31,7 +31,7 @@ smime-auto-sign/
 ✅ Fully customizable: email, organization, validity period  
 ✅ Easy to use on both Windows and Linux/macOS  
 
----
+
 
 ## 🧪 Quick Demo (Linux/macOS)
 
@@ -52,7 +52,7 @@ The script will generate:
 * `smime_cert.pem` – your public X.509 certificate
 * `smime_cert.p12` – combined key+certificate for email clients
 
----
+
 
 ## 🪟 Quick Demo (Windows)
 
@@ -60,7 +60,7 @@ The script will generate:
 2. Follow the prompts (email, organization).
 3. A `.p12` file will be generated, ready to import into your email client.
 
----
+
 
 ## 📧 How to Use the `.p12` File
 
@@ -78,14 +78,14 @@ Import the generated `.p12` file into your email client:
 * Import your digital ID
 * Enable "Encrypt contents and attachments" & "Add digital signature"
 
----
+
 
 ## 🛡️ Disclaimer
 
 > **These certificates are self-signed and for educational or internal purposes only.**
 > They will not be trusted by external parties or systems unless explicitly installed as trusted.
 
----
+
 
 ## ✍️ Author
 
@@ -94,14 +94,14 @@ Import the generated `.p12` file into your email client:
 🔗 [GitHub Profile](https://github.com/Lordpanda2003)
 📧 [monezejunior@gmail.com](mailto:monezejunior@gmail.com)
 
----
+
 
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
 Feel free to use, modify, and share it!
 
----
+
 
 ## 🙌 Contributions
 
