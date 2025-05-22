@@ -1,0 +1,41 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore certificates and secrets (for your crypto project)
+*.key
+*.crt
+*.pem
+*.csr
+*.p12
+*.der
+
+# Ignore Node modules (if applicable)
+node_modules/
+
+# Ignore IDE/project-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore build artifacts
+dist/
+build/
+*.exe
+*.out
+*.class
